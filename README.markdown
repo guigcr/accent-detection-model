@@ -27,7 +27,7 @@ The model uses a machine learning approach with the following components:
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/rtatman/speech-accent-archive) and place it in the `data/` directory.
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/rtatman/speech-accent-archive), place it in the `data/` directory and delete one of the recording folders, leaving only one.
 
 ## Usage
 1. Preprocess the dataset:
